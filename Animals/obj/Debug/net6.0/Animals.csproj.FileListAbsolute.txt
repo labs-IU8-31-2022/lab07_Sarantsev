@@ -1,0 +1,12 @@
+C:\Users\Даниил\RiderProjects\lab07\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Users\Даниил\RiderProjects\lab07\Animals\bin\Debug\net6.0\Animals.dll
+C:\Users\Даниил\RiderProjects\lab07\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Users\Даниил\RiderProjects\lab07\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+C:\Users\Даниил\RiderProjects\lab07\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\RiderProjects\lab07\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Users\Даниил\RiderProjects\lab07\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Users\Даниил\RiderProjects\lab07\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\RiderProjects\lab07\Animals\obj\Debug\net6.0\Animals.dll
+C:\Users\Даниил\RiderProjects\lab07\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Users\Даниил\RiderProjects\lab07\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Users\Даниил\RiderProjects\lab07\Animals\obj\Debug\net6.0\ref\Animals.dll
